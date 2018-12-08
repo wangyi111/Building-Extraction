@@ -2,8 +2,9 @@
 building extraction via convolutional neural network
 last change: 06/2018
 
-data preprocessing
-tfrecords file
-CNN/Resnet
-train/test
-prediction
+main work:
+1. data preprocessing
+2. tfrecords file
+3. CNN/Resnet
+4. train/test
+5. prediction

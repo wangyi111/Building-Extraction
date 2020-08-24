@@ -10,4 +10,6 @@ This repository contains several building extraction models which I practiced ov
 
 3. U-Net, based on the paper [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)
 
+4. Modified U-Net, based on the paper [BRRNet: A Fully Convolutional Neural Network for Automatic Building Extraction From High-Resolution Remote Sensing Images](https://www.mdpi.com/2072-4292/12/6/1050)
+
 

@@ -1,4 +1,4 @@
-# Bachelor-thesis
+# Building -Extraction
 
 This repository contains several building extraction models which I practiced over time. The task was originally my bachelor thesis project **building extraction with convolutional neural network**, when I used pixel based segmentation only, and non-efficient seen from now. Since then there are many more effective deep learning algorithms, I tested several of which and collect them here. I'll also try to keep updating it.
 

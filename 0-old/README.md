@@ -1,4 +1,4 @@
-Compare simple CNN and ResNet for building extraction with tensorflow.
+Compare simple CNN and ResNet for building extraction with tensorflow. Out of date, but interesting trial.
 
 ### Data
 
@@ -19,5 +19,5 @@ Interesting sawtooth effect. From left to right: RGB image, groud truth, predict
 ![](assets/result.png)
 
 ### Discussion
-**note:** Not yet sementic segmentation, out of date, but interesting trial.
+**note:** Not yet fully convolutional network based sementic segmentation, out of date, but interesting trial.
 

@@ -1,4 +1,4 @@
-Modified UNet for building extraction with tensorflow.
+Fully convolutional networks for building extraction with tensorflow.
 
 ### Data
 
@@ -8,7 +8,7 @@ A small example data is available [here](https://drive.google.com/file/d/1Inl-yY
 
 ### Model
 
-[BRRNet](https://www.mdpi.com/2072-4292/12/6/1050)
+Fully convolutional network.
 
 ### Result
 
